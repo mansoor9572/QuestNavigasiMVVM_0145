@@ -15,6 +15,9 @@ import androidx.navigation.compose.rememberNavController
 import com.example.meeting_6.view.FormIsian2
 import com.example.meeting_6.view.TampilData2
 
+/**
+ * DataApp2 composable function for managing stateful navigation and data flow.
+ */
 @Composable
 fun DataApp2(
     navController: NavHostController = rememberNavController()
