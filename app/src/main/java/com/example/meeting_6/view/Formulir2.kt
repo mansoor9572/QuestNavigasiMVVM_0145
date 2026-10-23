@@ -31,6 +31,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.example.meeting_6.R
 
+/**
+ * FormIsian2 stateful composable for managing form inputs and submission callbacks.
+ */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun FormIsian2(
