@@ -10,6 +10,9 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import com.example.meeting_6.ui.theme.Meeting_6Theme
 
+/**
+ * MainActivity: Main activity host for the Navigation and Compose UI hierarchy.
+ */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
